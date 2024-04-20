@@ -1,4 +1,5 @@
 **A computer Lab Management system**
+
 System implements Java SWING GUI and mysql database to store data.
 The system has 3 access Levels.
         1. Staff
